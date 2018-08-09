@@ -25,9 +25,9 @@
 - グラフィックレイヤーセットデータの編集
 ![](./demo/ActorGraphicsReactor_1_3.jpg)  
 ![](./demo/ActorGraphicsReactor_1_4.jpg)  
-- Twitterリンク（動画）  
-[立ち絵表示デモ1](https://twitter.com/rev2nym/status/821631446930653184)  
-[立ち絵表示デモ2](https://twitter.com/rev2nym/status/821649589019308032)  
+- Twitterリンク  
+[デモ動画1](https://twitter.com/rev2nym/status/821631446930653184)  
+[デモ動画2](https://twitter.com/rev2nym/status/821649589019308032)  
 
 ## 利用規約
 MITライセンスのもと、商用利用、改変、再配布が可能です。
