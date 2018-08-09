@@ -7,22 +7,9 @@
 //=============================================================================
 
 /*:
- * @plugindesc アクターグラフィクスリアクター ver2.1.3
+ * @plugindesc アクターグラフィクスリアクター 2.1.4
  * 職業、装備、スキル、ステートをグラフィックに反映させます。
  * @author サンシロ https://twitter.com/rev2nym
- * @version 2.1.3 2017/06/12 コアスクリプト ver1.5.0 対応。
- * 2.1.2 2017/05/13 コミュニティ版コアスクリプト対応部分の修正。セットアップ、リフレッシュ、バージョン修正タイミング変更。クラス定義をグローバル化。
- * 2.1.1 2017/04/04 コミュニティ版コアスクリプト暫定対応。メモ欄設定が無い場合の挙動をヘルプに追記。
- * 2.1.0 2017/01/18 ビットマップの積層処理を見直し。立ち絵表示機能追加。
- * 2.08 2016/11/15 アクターのメモ欄にリアクター設定がない場合デフォルト画像のみ表示しその他の画像を反映しないよう変更。
- * 2.07 2016/11/12 競合対策の影響でアクターのステート変更時にエラー終了する不具合を修正。隊列歩行のオンオフが機能しない不具合を修正。パーティメンバーの入れ替え時にグラフィックが表示されないことがある不具合を修正。
- * 2.06 2016/11/08 アクターのデフォルトフェイス画像の分割有無判定の不具合を修正。
- * 2.05 2016/11/07 プラグイン競合対策のためアクター初期化処理の変更。アクターのデフォルト画像が表示されない不具合の修正。ヘルプの整理。リファクタリング。
- * 2.04 2016/08/13 ツクールMV ver1.3.0 対応。画像キャッシュ処理の変更。
- * 2.03 2016/07/16 ディレクトリパスに'www'が含まれるとエディタシーン開始時にエラー終了する不具合を修正。
- * 2.02 2016/06/23 分割有無が反映されない不具合を修正。分割有無とインデックスにnullを選択可能とし、null以外はマージされるよう変更。
- * 2.01 2016/06/23 イベントコマンドの全回復で回復したときグラフィックが反映されない不具合を修正。
- * 2.00 2016/06/23 ver2.00 公開
  * @help
  * ■概要
  * このプラグインは次の機能を提供します。
@@ -171,7 +158,7 @@ Imported.SAN_ActorGraphicsReactor = true;
 
 var Sanshiro = Sanshiro || {};
 Sanshiro.ActorGraphicsReactor = Sanshiro.ActorGraphicsReactor || {};
-Sanshiro.ActorGraphicsReactor.version = '2.1.3';
+Sanshiro.ActorGraphicsReactor.version = '2.1.4';
 
 (function() {
 'use strict';
@@ -1959,13 +1946,13 @@ Scene_ActorGraphicsEditor.prototype.saveDatabaseFile = function(name, json) {
         var fs = require('fs');
         var dirPath = this.databaseDirectoryPath();
         var filePath = name + '.json';
-        fs.writeFileSync(dirPath + filePath, JSON.stringify(json, null, '    '));
+        fs.writeFileSync(dirPath + '/' + filePath, JSON.stringify(json, null, '    '));
     }
 };
 
 // データファイルディレクトリ
 Scene_ActorGraphicsEditor.prototype.databaseDirectoryPath = function() {
-    var path = window.location.pathname.replace(/\/[^\/]*$/, '/data/');
+    var path = window.location.pathname.replace(/\/[^\/]*$/, './data');
     if (path.match(/^\/([A-Z]\:)/)) {
         path = path.slice(1);
     }
@@ -1974,7 +1961,7 @@ Scene_ActorGraphicsEditor.prototype.databaseDirectoryPath = function() {
 
 // 画像ファイルディレクトリパス
 Scene_ActorGraphicsEditor.prototype.imageDirectoryPath = function() {
-    var path = window.location.pathname.replace(/\/[^\/]*$/, '/img/');
+    var path = window.location.pathname.replace(/\/[^\/]*$/, './img');
     if (path.match(/^\/([A-Z]\:)/)) {
         path = path.slice(1);
     }
