@@ -1,0 +1,16 @@
+.vscode/
+index.html
+package.json
+Game.rpgproject
+audio/*
+data/*
+!data/SAN_ActorGraphicsReactor.json
+fonts/*
+icon/*
+img/*
+js/*
+!js/plugins/
+movies/*
+save/*
+sample/*
+# !sample/SAN_ActorGraphicsReactor.zip

@@ -1,0 +1,1802 @@
+{
+    "reactors": [
+        {
+            "type": "characters",
+            "name": "Body",
+            "label": "Effect",
+            "path": null,
+            "isBig": true,
+            "index": 0,
+            "depthZ": null,
+            "offsetX": null,
+            "offsetY": null,
+            "alpha": null,
+            "hslValid": null,
+            "hslH": 0,
+            "hslS": 0.5,
+            "hslL": 0.5
+        },
+        {
+            "type": "characters",
+            "name": "Body",
+            "label": "Body",
+            "path": "Actor1.png",
+            "isBig": false,
+            "index": 0,
+            "depthZ": 0,
+            "offsetX": null,
+            "offsetY": null,
+            "alpha": null,
+            "hslValid": null,
+            "hslH": 0,
+            "hslS": 0.5,
+            "hslL": 0.5
+        },
+        {
+            "type": "characters",
+            "name": "BodyHarold",
+            "label": "Effect",
+            "path": null,
+            "isBig": true,
+            "index": 0,
+            "depthZ": null,
+            "offsetX": null,
+            "offsetY": null,
+            "alpha": null,
+            "hslValid": null,
+            "hslH": 0,
+            "hslS": 0.5,
+            "hslL": 0.5
+        },
+        {
+            "type": "characters",
+            "name": "BodyHarold",
+            "label": "Body",
+            "path": "Actor1.png",
+            "isBig": false,
+            "index": 0,
+            "depthZ": 0,
+            "offsetX": null,
+            "offsetY": null,
+            "alpha": null,
+            "hslValid": null,
+            "hslH": 0,
+            "hslS": 0.5,
+            "hslL": 0.5
+        },
+        {
+            "type": "characters",
+            "name": "BodyLucius",
+            "label": "Effect",
+            "path": null,
+            "isBig": true,
+            "index": 0,
+            "depthZ": null,
+            "offsetX": null,
+            "offsetY": null,
+            "alpha": null,
+            "hslValid": null,
+            "hslH": 0,
+            "hslS": 0.5,
+            "hslL": 0.5
+        },
+        {
+            "type": "characters",
+            "name": "BodyLucius",
+            "label": "Body",
+            "path": "Actor2.png",
+            "isBig": false,
+            "index": 6,
+            "depthZ": 0,
+            "offsetX": null,
+            "offsetY": null,
+            "alpha": null,
+            "hslValid": null,
+            "hslH": 0,
+            "hslS": 0.5,
+            "hslL": 0.5
+        },
+        {
+            "type": "characters",
+            "name": "BodyMarsha",
+            "label": "Effect",
+            "path": null,
+            "isBig": true,
+            "index": 0,
+            "depthZ": null,
+            "offsetX": null,
+            "offsetY": null,
+            "alpha": null,
+            "hslValid": null,
+            "hslH": 0,
+            "hslS": 0.5,
+            "hslL": 0.5
+        },
+        {
+            "type": "characters",
+            "name": "BodyMarsha",
+            "label": "Body",
+            "path": "Actor3.png",
+            "isBig": false,
+            "index": 7,
+            "depthZ": 0,
+            "offsetX": null,
+            "offsetY": null,
+            "alpha": null,
+            "hslValid": null,
+            "hslH": 0,
+            "hslS": 0.5,
+            "hslL": 0.5
+        },
+        {
+            "type": "characters",
+            "name": "BodyTherese",
+            "label": "Effect",
+            "path": null,
+            "isBig": true,
+            "index": 0,
+            "depthZ": null,
+            "offsetX": null,
+            "offsetY": null,
+            "alpha": null,
+            "hslValid": null,
+            "hslH": 0,
+            "hslS": 0.5,
+            "hslL": 0.5
+        },
+        {
+            "type": "characters",
+            "name": "BodyTherese",
+            "label": "Body",
+            "path": "Actor1.png",
+            "isBig": false,
+            "index": 7,
+            "depthZ": 0,
+            "offsetX": 0,
+            "offsetY": 0,
+            "alpha": 1,
+            "hslValid": null,
+            "hslH": 0,
+            "hslS": 0.5,
+            "hslL": 0.5
+        },
+        {
+            "type": "characters",
+            "name": "Equip",
+            "label": "Effect",
+            "path": null,
+            "isBig": true,
+            "index": 0,
+            "depthZ": null,
+            "offsetX": null,
+            "offsetY": null,
+            "alpha": null,
+            "hslValid": null,
+            "hslH": 0,
+            "hslS": 0.5,
+            "hslL": 0.5
+        },
+        {
+            "type": "characters",
+            "name": "Equip",
+            "label": "Body",
+            "path": "Actor1.png",
+            "isBig": false,
+            "index": 0,
+            "depthZ": 0,
+            "offsetX": null,
+            "offsetY": null,
+            "alpha": null,
+            "hslValid": null,
+            "hslH": 0,
+            "hslS": 0.5,
+            "hslL": 0.5
+        },
+        {
+            "type": "characters",
+            "name": "EquipHarold",
+            "label": "Effect",
+            "path": null,
+            "isBig": true,
+            "index": 0,
+            "depthZ": null,
+            "offsetX": null,
+            "offsetY": null,
+            "alpha": null,
+            "hslValid": null,
+            "hslH": 0,
+            "hslS": 0.5,
+            "hslL": 0.5
+        },
+        {
+            "type": "characters",
+            "name": "EquipHarold",
+            "label": "Body",
+            "path": "Actor1.png",
+            "isBig": false,
+            "index": 0,
+            "depthZ": 0,
+            "offsetX": null,
+            "offsetY": null,
+            "alpha": null,
+            "hslValid": null,
+            "hslH": 0,
+            "hslS": 0.5,
+            "hslL": 0.5
+        },
+        {
+            "type": "characters",
+            "name": "EquipLucius",
+            "label": "Effect",
+            "path": null,
+            "isBig": true,
+            "index": 0,
+            "depthZ": null,
+            "offsetX": null,
+            "offsetY": null,
+            "alpha": null,
+            "hslValid": null,
+            "hslH": 0,
+            "hslS": 0.5,
+            "hslL": 0.5
+        },
+        {
+            "type": "characters",
+            "name": "EquipLucius",
+            "label": "Body",
+            "path": "Actor2.png",
+            "isBig": false,
+            "index": 6,
+            "depthZ": 0,
+            "offsetX": null,
+            "offsetY": null,
+            "alpha": null,
+            "hslValid": null,
+            "hslH": 0,
+            "hslS": 0.5,
+            "hslL": 0.5
+        },
+        {
+            "type": "characters",
+            "name": "EquipMarsha",
+            "label": "Effect",
+            "path": null,
+            "isBig": true,
+            "index": 0,
+            "depthZ": null,
+            "offsetX": null,
+            "offsetY": null,
+            "alpha": null,
+            "hslValid": null,
+            "hslH": 0,
+            "hslS": 0.5,
+            "hslL": 0.5
+        },
+        {
+            "type": "characters",
+            "name": "EquipMarsha",
+            "label": "Body",
+            "path": "Actor3.png",
+            "isBig": false,
+            "index": 7,
+            "depthZ": 0,
+            "offsetX": null,
+            "offsetY": null,
+            "alpha": null,
+            "hslValid": null,
+            "hslH": 0,
+            "hslS": 0.5,
+            "hslL": 0.5
+        },
+        {
+            "type": "characters",
+            "name": "EquipTherese",
+            "label": "Effect",
+            "path": null,
+            "isBig": true,
+            "index": 0,
+            "depthZ": null,
+            "offsetX": null,
+            "offsetY": null,
+            "alpha": null,
+            "hslValid": null,
+            "hslH": 0,
+            "hslS": 0.5,
+            "hslL": 0.5
+        },
+        {
+            "type": "characters",
+            "name": "EquipTherese",
+            "label": "Body",
+            "path": "Actor1.png",
+            "isBig": false,
+            "index": 7,
+            "depthZ": 0,
+            "offsetX": 0,
+            "offsetY": 0,
+            "alpha": 1,
+            "hslValid": null,
+            "hslH": 0,
+            "hslS": 0.5,
+            "hslL": 0.5
+        },
+        {
+            "type": "characters",
+            "name": "StatePoison",
+            "label": "Effect",
+            "path": null,
+            "isBig": null,
+            "index": null,
+            "depthZ": null,
+            "offsetX": null,
+            "offsetY": null,
+            "alpha": null,
+            "hslValid": null,
+            "hslH": 0,
+            "hslS": 0.5,
+            "hslL": 0.5
+        },
+        {
+            "type": "characters",
+            "name": "StatePoison",
+            "label": "Body",
+            "path": null,
+            "isBig": null,
+            "index": null,
+            "depthZ": 0,
+            "offsetX": null,
+            "offsetY": null,
+            "alpha": null,
+            "hslValid": true,
+            "hslH": 120,
+            "hslS": 0.2,
+            "hslL": 0.5
+        },
+        {
+            "type": "faces",
+            "name": "Body",
+            "label": "Effect",
+            "path": null,
+            "isBig": true,
+            "index": 0,
+            "depthZ": null,
+            "offsetX": null,
+            "offsetY": null,
+            "alpha": null,
+            "hslValid": null,
+            "hslH": 0,
+            "hslS": 0.5,
+            "hslL": 0.5
+        },
+        {
+            "type": "faces",
+            "name": "Body",
+            "label": "Body",
+            "path": "Actor1.png",
+            "isBig": false,
+            "index": 0,
+            "depthZ": 0,
+            "offsetX": 0,
+            "offsetY": 0,
+            "alpha": 1,
+            "hslValid": null,
+            "hslH": 0,
+            "hslS": 0.5,
+            "hslL": 0.5
+        },
+        {
+            "type": "faces",
+            "name": "BodyHarold",
+            "label": "Effect",
+            "path": null,
+            "isBig": true,
+            "index": 0,
+            "depthZ": null,
+            "offsetX": null,
+            "offsetY": null,
+            "alpha": null,
+            "hslValid": null,
+            "hslH": 0,
+            "hslS": 0.5,
+            "hslL": 0.5
+        },
+        {
+            "type": "faces",
+            "name": "BodyHarold",
+            "label": "Body",
+            "path": "Actor1.png",
+            "isBig": false,
+            "index": 0,
+            "depthZ": 0,
+            "offsetX": 0,
+            "offsetY": 0,
+            "alpha": 1,
+            "hslValid": null,
+            "hslH": 0,
+            "hslS": 0.5,
+            "hslL": 0.5
+        },
+        {
+            "type": "faces",
+            "name": "BodyLucius",
+            "label": "Effect",
+            "path": null,
+            "isBig": true,
+            "index": 0,
+            "depthZ": null,
+            "offsetX": null,
+            "offsetY": null,
+            "alpha": null,
+            "hslValid": null,
+            "hslH": 0,
+            "hslS": 0.5,
+            "hslL": 0.5
+        },
+        {
+            "type": "faces",
+            "name": "BodyLucius",
+            "label": "Body",
+            "path": "Actor2.png",
+            "isBig": false,
+            "index": 6,
+            "depthZ": 0,
+            "offsetX": 0,
+            "offsetY": 0,
+            "alpha": 1,
+            "hslValid": null,
+            "hslH": 0,
+            "hslS": 0.5,
+            "hslL": 0.5
+        },
+        {
+            "type": "faces",
+            "name": "BodyMarsha",
+            "label": "Effect",
+            "path": null,
+            "isBig": true,
+            "index": 0,
+            "depthZ": null,
+            "offsetX": null,
+            "offsetY": null,
+            "alpha": null,
+            "hslValid": null,
+            "hslH": 0,
+            "hslS": 0.5,
+            "hslL": 0.5
+        },
+        {
+            "type": "faces",
+            "name": "BodyMarsha",
+            "label": "Body",
+            "path": "Actor3.png",
+            "isBig": false,
+            "index": 7,
+            "depthZ": 0,
+            "offsetX": 0,
+            "offsetY": 0,
+            "alpha": 1,
+            "hslValid": null,
+            "hslH": 0,
+            "hslS": 0.5,
+            "hslL": 0.5
+        },
+        {
+            "type": "faces",
+            "name": "BodyTherese",
+            "label": "Effect",
+            "path": null,
+            "isBig": true,
+            "index": 0,
+            "depthZ": null,
+            "offsetX": null,
+            "offsetY": null,
+            "alpha": null,
+            "hslValid": null,
+            "hslH": 0,
+            "hslS": 0.5,
+            "hslL": 0.5
+        },
+        {
+            "type": "faces",
+            "name": "BodyTherese",
+            "label": "Body",
+            "path": "Actor1.png",
+            "isBig": false,
+            "index": 7,
+            "depthZ": 0,
+            "offsetX": 0,
+            "offsetY": 0,
+            "alpha": 1,
+            "hslValid": null,
+            "hslH": 0,
+            "hslS": 0.5,
+            "hslL": 0.5
+        },
+        {
+            "type": "faces",
+            "name": "Equip",
+            "label": "Effect",
+            "path": null,
+            "isBig": true,
+            "index": 0,
+            "depthZ": null,
+            "offsetX": null,
+            "offsetY": null,
+            "alpha": null,
+            "hslValid": null,
+            "hslH": 0,
+            "hslS": 0.5,
+            "hslL": 0.5
+        },
+        {
+            "type": "faces",
+            "name": "Equip",
+            "label": "Body",
+            "path": "Actor1.png",
+            "isBig": false,
+            "index": 0,
+            "depthZ": 0,
+            "offsetX": 0,
+            "offsetY": 0,
+            "alpha": 1,
+            "hslValid": null,
+            "hslH": 0,
+            "hslS": 0.5,
+            "hslL": 0.5
+        },
+        {
+            "type": "faces",
+            "name": "EquipHarold",
+            "label": "Effect",
+            "path": null,
+            "isBig": true,
+            "index": 0,
+            "depthZ": null,
+            "offsetX": null,
+            "offsetY": null,
+            "alpha": null,
+            "hslValid": null,
+            "hslH": 0,
+            "hslS": 0.5,
+            "hslL": 0.5
+        },
+        {
+            "type": "faces",
+            "name": "EquipHarold",
+            "label": "Body",
+            "path": "Actor1.png",
+            "isBig": false,
+            "index": 0,
+            "depthZ": 0,
+            "offsetX": 0,
+            "offsetY": 0,
+            "alpha": 1,
+            "hslValid": null,
+            "hslH": 0,
+            "hslS": 0.5,
+            "hslL": 0.5
+        },
+        {
+            "type": "faces",
+            "name": "EquipLucius",
+            "label": "Effect",
+            "path": null,
+            "isBig": true,
+            "index": 0,
+            "depthZ": null,
+            "offsetX": null,
+            "offsetY": null,
+            "alpha": null,
+            "hslValid": null,
+            "hslH": 0,
+            "hslS": 0.5,
+            "hslL": 0.5
+        },
+        {
+            "type": "faces",
+            "name": "EquipLucius",
+            "label": "Body",
+            "path": "Actor2.png",
+            "isBig": false,
+            "index": 6,
+            "depthZ": 0,
+            "offsetX": 0,
+            "offsetY": 0,
+            "alpha": 1,
+            "hslValid": null,
+            "hslH": 0,
+            "hslS": 0.5,
+            "hslL": 0.5
+        },
+        {
+            "type": "faces",
+            "name": "EquipMarsha",
+            "label": "Effect",
+            "path": null,
+            "isBig": true,
+            "index": 0,
+            "depthZ": null,
+            "offsetX": null,
+            "offsetY": null,
+            "alpha": null,
+            "hslValid": null,
+            "hslH": 0,
+            "hslS": 0.5,
+            "hslL": 0.5
+        },
+        {
+            "type": "faces",
+            "name": "EquipMarsha",
+            "label": "Body",
+            "path": "Actor3.png",
+            "isBig": false,
+            "index": 7,
+            "depthZ": 0,
+            "offsetX": 0,
+            "offsetY": 0,
+            "alpha": 1,
+            "hslValid": null,
+            "hslH": 0,
+            "hslS": 0.5,
+            "hslL": 0.5
+        },
+        {
+            "type": "faces",
+            "name": "EquipTherese",
+            "label": "Effect",
+            "path": null,
+            "isBig": true,
+            "index": 0,
+            "depthZ": null,
+            "offsetX": null,
+            "offsetY": null,
+            "alpha": null,
+            "hslValid": null,
+            "hslH": 0,
+            "hslS": 0.5,
+            "hslL": 0.5
+        },
+        {
+            "type": "faces",
+            "name": "EquipTherese",
+            "label": "Body",
+            "path": "Actor1.png",
+            "isBig": false,
+            "index": 7,
+            "depthZ": 0,
+            "offsetX": 0,
+            "offsetY": 0,
+            "alpha": 1,
+            "hslValid": null,
+            "hslH": 0,
+            "hslS": 0.5,
+            "hslL": 0.5
+        },
+        {
+            "type": "faces",
+            "name": "StatePoison",
+            "label": "Effect",
+            "path": null,
+            "isBig": true,
+            "index": 0,
+            "depthZ": null,
+            "offsetX": null,
+            "offsetY": null,
+            "alpha": null,
+            "hslValid": null,
+            "hslH": 0,
+            "hslS": 0.5,
+            "hslL": 0.5
+        },
+        {
+            "type": "faces",
+            "name": "StatePoison",
+            "label": "Body",
+            "path": null,
+            "isBig": null,
+            "index": null,
+            "depthZ": 0,
+            "offsetX": null,
+            "offsetY": null,
+            "alpha": null,
+            "hslValid": true,
+            "hslH": 120,
+            "hslS": 0.2,
+            "hslL": 0.5
+        },
+        {
+            "type": "pictures",
+            "name": "Body",
+            "label": "Effect",
+            "path": null,
+            "isBig": true,
+            "index": 0,
+            "depthZ": null,
+            "offsetX": null,
+            "offsetY": null,
+            "alpha": null,
+            "hslValid": null,
+            "hslH": 0,
+            "hslS": 0.5,
+            "hslL": 0.5
+        },
+        {
+            "type": "pictures",
+            "name": "Body",
+            "label": "Body",
+            "path": null,
+            "isBig": null,
+            "index": null,
+            "depthZ": 0,
+            "offsetX": null,
+            "offsetY": null,
+            "alpha": null,
+            "hslValid": null,
+            "hslH": 0,
+            "hslS": 0.5,
+            "hslL": 0.5
+        },
+        {
+            "type": "pictures",
+            "name": "BodyHarold",
+            "label": "Effect",
+            "path": null,
+            "isBig": true,
+            "index": 0,
+            "depthZ": null,
+            "offsetX": null,
+            "offsetY": null,
+            "alpha": null,
+            "hslValid": null,
+            "hslH": 0,
+            "hslS": 0.5,
+            "hslL": 0.5
+        },
+        {
+            "type": "pictures",
+            "name": "BodyHarold",
+            "label": "Body",
+            "path": null,
+            "isBig": null,
+            "index": null,
+            "depthZ": 0,
+            "offsetX": null,
+            "offsetY": null,
+            "alpha": null,
+            "hslValid": null,
+            "hslH": 0,
+            "hslS": 0.5,
+            "hslL": 0.5
+        },
+        {
+            "type": "pictures",
+            "name": "BodyLucius",
+            "label": "Effect",
+            "path": null,
+            "isBig": true,
+            "index": 0,
+            "depthZ": null,
+            "offsetX": null,
+            "offsetY": null,
+            "alpha": null,
+            "hslValid": null,
+            "hslH": 0,
+            "hslS": 0.5,
+            "hslL": 0.5
+        },
+        {
+            "type": "pictures",
+            "name": "BodyLucius",
+            "label": "Body",
+            "path": null,
+            "isBig": null,
+            "index": null,
+            "depthZ": 0,
+            "offsetX": null,
+            "offsetY": null,
+            "alpha": null,
+            "hslValid": null,
+            "hslH": 0,
+            "hslS": 0.5,
+            "hslL": 0.5
+        },
+        {
+            "type": "pictures",
+            "name": "BodyMarsha",
+            "label": "Effect",
+            "path": null,
+            "isBig": true,
+            "index": 0,
+            "depthZ": null,
+            "offsetX": null,
+            "offsetY": null,
+            "alpha": null,
+            "hslValid": null,
+            "hslH": 0,
+            "hslS": 0.5,
+            "hslL": 0.5
+        },
+        {
+            "type": "pictures",
+            "name": "BodyMarsha",
+            "label": "Body",
+            "path": null,
+            "isBig": null,
+            "index": null,
+            "depthZ": 0,
+            "offsetX": null,
+            "offsetY": null,
+            "alpha": null,
+            "hslValid": null,
+            "hslH": 0,
+            "hslS": 0.5,
+            "hslL": 0.5
+        },
+        {
+            "type": "pictures",
+            "name": "BodyTherese",
+            "label": "Effect",
+            "path": null,
+            "isBig": true,
+            "index": 0,
+            "depthZ": null,
+            "offsetX": null,
+            "offsetY": null,
+            "alpha": null,
+            "hslValid": null,
+            "hslH": 0,
+            "hslS": 0.5,
+            "hslL": 0.5
+        },
+        {
+            "type": "pictures",
+            "name": "BodyTherese",
+            "label": "Body",
+            "path": null,
+            "isBig": null,
+            "index": null,
+            "depthZ": 0,
+            "offsetX": null,
+            "offsetY": null,
+            "alpha": null,
+            "hslValid": null,
+            "hslH": 0,
+            "hslS": 0.5,
+            "hslL": 0.5
+        },
+        {
+            "type": "pictures",
+            "name": "Equip",
+            "label": "Effect",
+            "path": null,
+            "isBig": true,
+            "index": 0,
+            "depthZ": null,
+            "offsetX": null,
+            "offsetY": null,
+            "alpha": null,
+            "hslValid": null,
+            "hslH": 0,
+            "hslS": 0.5,
+            "hslL": 0.5
+        },
+        {
+            "type": "pictures",
+            "name": "Equip",
+            "label": "Body",
+            "path": null,
+            "isBig": null,
+            "index": null,
+            "depthZ": 0,
+            "offsetX": null,
+            "offsetY": null,
+            "alpha": null,
+            "hslValid": null,
+            "hslH": 0,
+            "hslS": 0.5,
+            "hslL": 0.5
+        },
+        {
+            "type": "pictures",
+            "name": "EquipHarold",
+            "label": "Effect",
+            "path": null,
+            "isBig": true,
+            "index": 0,
+            "depthZ": null,
+            "offsetX": null,
+            "offsetY": null,
+            "alpha": null,
+            "hslValid": null,
+            "hslH": 0,
+            "hslS": 0.5,
+            "hslL": 0.5
+        },
+        {
+            "type": "pictures",
+            "name": "EquipHarold",
+            "label": "Body",
+            "path": null,
+            "isBig": null,
+            "index": null,
+            "depthZ": 0,
+            "offsetX": null,
+            "offsetY": null,
+            "alpha": null,
+            "hslValid": null,
+            "hslH": 0,
+            "hslS": 0.5,
+            "hslL": 0.5
+        },
+        {
+            "type": "pictures",
+            "name": "EquipLucius",
+            "label": "Effect",
+            "path": null,
+            "isBig": true,
+            "index": 0,
+            "depthZ": null,
+            "offsetX": null,
+            "offsetY": null,
+            "alpha": null,
+            "hslValid": null,
+            "hslH": 0,
+            "hslS": 0.5,
+            "hslL": 0.5
+        },
+        {
+            "type": "pictures",
+            "name": "EquipLucius",
+            "label": "Body",
+            "path": null,
+            "isBig": null,
+            "index": null,
+            "depthZ": 0,
+            "offsetX": null,
+            "offsetY": null,
+            "alpha": null,
+            "hslValid": null,
+            "hslH": 0,
+            "hslS": 0.5,
+            "hslL": 0.5
+        },
+        {
+            "type": "pictures",
+            "name": "EquipMarsha",
+            "label": "Effect",
+            "path": null,
+            "isBig": true,
+            "index": 0,
+            "depthZ": null,
+            "offsetX": null,
+            "offsetY": null,
+            "alpha": null,
+            "hslValid": null,
+            "hslH": 0,
+            "hslS": 0.5,
+            "hslL": 0.5
+        },
+        {
+            "type": "pictures",
+            "name": "EquipMarsha",
+            "label": "Body",
+            "path": null,
+            "isBig": null,
+            "index": null,
+            "depthZ": 0,
+            "offsetX": null,
+            "offsetY": null,
+            "alpha": null,
+            "hslValid": null,
+            "hslH": 0,
+            "hslS": 0.5,
+            "hslL": 0.5
+        },
+        {
+            "type": "pictures",
+            "name": "EquipTherese",
+            "label": "Effect",
+            "path": null,
+            "isBig": true,
+            "index": 0,
+            "depthZ": null,
+            "offsetX": null,
+            "offsetY": null,
+            "alpha": null,
+            "hslValid": null,
+            "hslH": 0,
+            "hslS": 0.5,
+            "hslL": 0.5
+        },
+        {
+            "type": "pictures",
+            "name": "EquipTherese",
+            "label": "Body",
+            "path": null,
+            "isBig": null,
+            "index": null,
+            "depthZ": 0,
+            "offsetX": null,
+            "offsetY": null,
+            "alpha": null,
+            "hslValid": null,
+            "hslH": 0,
+            "hslS": 0.5,
+            "hslL": 0.5
+        },
+        {
+            "type": "pictures",
+            "name": "StatePoison",
+            "label": "Effect",
+            "path": null,
+            "isBig": true,
+            "index": 0,
+            "depthZ": null,
+            "offsetX": null,
+            "offsetY": null,
+            "alpha": null,
+            "hslValid": null,
+            "hslH": 0,
+            "hslS": 0.5,
+            "hslL": 0.5
+        },
+        {
+            "type": "pictures",
+            "name": "StatePoison",
+            "label": "Body",
+            "path": null,
+            "isBig": null,
+            "index": null,
+            "depthZ": 0,
+            "offsetX": null,
+            "offsetY": null,
+            "alpha": null,
+            "hslValid": true,
+            "hslH": 120,
+            "hslS": 0.2,
+            "hslL": 0.5
+        },
+        {
+            "type": "sv_actors",
+            "name": "Body",
+            "label": "Effect",
+            "path": null,
+            "isBig": true,
+            "index": 0,
+            "depthZ": null,
+            "offsetX": null,
+            "offsetY": null,
+            "alpha": null,
+            "hslValid": null,
+            "hslH": 0,
+            "hslS": 0.5,
+            "hslL": 0.5
+        },
+        {
+            "type": "sv_actors",
+            "name": "Body",
+            "label": "Body",
+            "path": "Actor1_1.png",
+            "isBig": true,
+            "index": 0,
+            "depthZ": 0,
+            "offsetX": null,
+            "offsetY": null,
+            "alpha": null,
+            "hslValid": null,
+            "hslH": 0,
+            "hslS": 0.5,
+            "hslL": 0.5
+        },
+        {
+            "type": "sv_actors",
+            "name": "BodyHarold",
+            "label": "Effect",
+            "path": null,
+            "isBig": true,
+            "index": 0,
+            "depthZ": null,
+            "offsetX": null,
+            "offsetY": null,
+            "alpha": null,
+            "hslValid": null,
+            "hslH": 0,
+            "hslS": 0.5,
+            "hslL": 0.5
+        },
+        {
+            "type": "sv_actors",
+            "name": "BodyHarold",
+            "label": "Body",
+            "path": "Actor1_1.png",
+            "isBig": true,
+            "index": 0,
+            "depthZ": 0,
+            "offsetX": null,
+            "offsetY": null,
+            "alpha": null,
+            "hslValid": null,
+            "hslH": 0,
+            "hslS": 0.5,
+            "hslL": 0.5
+        },
+        {
+            "type": "sv_actors",
+            "name": "BodyLucius",
+            "label": "Effect",
+            "path": null,
+            "isBig": true,
+            "index": 0,
+            "depthZ": null,
+            "offsetX": null,
+            "offsetY": null,
+            "alpha": null,
+            "hslValid": null,
+            "hslH": 0,
+            "hslS": 0.5,
+            "hslL": 0.5
+        },
+        {
+            "type": "sv_actors",
+            "name": "BodyLucius",
+            "label": "Body",
+            "path": "Actor2_7.png",
+            "isBig": true,
+            "index": 0,
+            "depthZ": 0,
+            "offsetX": null,
+            "offsetY": null,
+            "alpha": null,
+            "hslValid": null,
+            "hslH": 0,
+            "hslS": 0.5,
+            "hslL": 0.5
+        },
+        {
+            "type": "sv_actors",
+            "name": "BodyMarsha",
+            "label": "Effect",
+            "path": null,
+            "isBig": true,
+            "index": 0,
+            "depthZ": null,
+            "offsetX": null,
+            "offsetY": null,
+            "alpha": null,
+            "hslValid": null,
+            "hslH": 0,
+            "hslS": 0.5,
+            "hslL": 0.5
+        },
+        {
+            "type": "sv_actors",
+            "name": "BodyMarsha",
+            "label": "Body",
+            "path": "Actor3_8.png",
+            "isBig": true,
+            "index": 0,
+            "depthZ": 0,
+            "offsetX": null,
+            "offsetY": null,
+            "alpha": null,
+            "hslValid": null,
+            "hslH": 0,
+            "hslS": 0.5,
+            "hslL": 0.5
+        },
+        {
+            "type": "sv_actors",
+            "name": "BodyTherese",
+            "label": "Effect",
+            "path": null,
+            "isBig": true,
+            "index": 0,
+            "depthZ": null,
+            "offsetX": null,
+            "offsetY": null,
+            "alpha": null,
+            "hslValid": null,
+            "hslH": 0,
+            "hslS": 0.5,
+            "hslL": 0.5
+        },
+        {
+            "type": "sv_actors",
+            "name": "BodyTherese",
+            "label": "Body",
+            "path": "Actor1_8.png",
+            "isBig": true,
+            "index": 0,
+            "depthZ": 0,
+            "offsetX": null,
+            "offsetY": null,
+            "alpha": null,
+            "hslValid": null,
+            "hslH": 0,
+            "hslS": 0.5,
+            "hslL": 0.5
+        },
+        {
+            "type": "sv_actors",
+            "name": "Equip",
+            "label": "Effect",
+            "path": null,
+            "isBig": true,
+            "index": 0,
+            "depthZ": null,
+            "offsetX": null,
+            "offsetY": null,
+            "alpha": null,
+            "hslValid": null,
+            "hslH": 0,
+            "hslS": 0.5,
+            "hslL": 0.5
+        },
+        {
+            "type": "sv_actors",
+            "name": "Equip",
+            "label": "Body",
+            "path": "Actor1_1.png",
+            "isBig": true,
+            "index": 0,
+            "depthZ": 0,
+            "offsetX": null,
+            "offsetY": null,
+            "alpha": null,
+            "hslValid": null,
+            "hslH": 0,
+            "hslS": 0.5,
+            "hslL": 0.5
+        },
+        {
+            "type": "sv_actors",
+            "name": "EquipHarold",
+            "label": "Effect",
+            "path": null,
+            "isBig": true,
+            "index": 0,
+            "depthZ": null,
+            "offsetX": null,
+            "offsetY": null,
+            "alpha": null,
+            "hslValid": null,
+            "hslH": 0,
+            "hslS": 0.5,
+            "hslL": 0.5
+        },
+        {
+            "type": "sv_actors",
+            "name": "EquipHarold",
+            "label": "Body",
+            "path": "Actor1_1.png",
+            "isBig": true,
+            "index": 0,
+            "depthZ": 0,
+            "offsetX": null,
+            "offsetY": null,
+            "alpha": null,
+            "hslValid": null,
+            "hslH": 0,
+            "hslS": 0.5,
+            "hslL": 0.5
+        },
+        {
+            "type": "sv_actors",
+            "name": "EquipLucius",
+            "label": "Effect",
+            "path": null,
+            "isBig": true,
+            "index": 0,
+            "depthZ": null,
+            "offsetX": null,
+            "offsetY": null,
+            "alpha": null,
+            "hslValid": null,
+            "hslH": 0,
+            "hslS": 0.5,
+            "hslL": 0.5
+        },
+        {
+            "type": "sv_actors",
+            "name": "EquipLucius",
+            "label": "Body",
+            "path": "Actor2_7.png",
+            "isBig": true,
+            "index": 0,
+            "depthZ": 0,
+            "offsetX": null,
+            "offsetY": null,
+            "alpha": null,
+            "hslValid": null,
+            "hslH": 0,
+            "hslS": 0.5,
+            "hslL": 0.5
+        },
+        {
+            "type": "sv_actors",
+            "name": "EquipMarsha",
+            "label": "Effect",
+            "path": null,
+            "isBig": true,
+            "index": 0,
+            "depthZ": null,
+            "offsetX": null,
+            "offsetY": null,
+            "alpha": null,
+            "hslValid": null,
+            "hslH": 0,
+            "hslS": 0.5,
+            "hslL": 0.5
+        },
+        {
+            "type": "sv_actors",
+            "name": "EquipMarsha",
+            "label": "Body",
+            "path": "Actor3_8.png",
+            "isBig": true,
+            "index": 0,
+            "depthZ": 0,
+            "offsetX": null,
+            "offsetY": null,
+            "alpha": null,
+            "hslValid": null,
+            "hslH": 0,
+            "hslS": 0.5,
+            "hslL": 0.5
+        },
+        {
+            "type": "sv_actors",
+            "name": "EquipTherese",
+            "label": "Effect",
+            "path": null,
+            "isBig": true,
+            "index": 0,
+            "depthZ": null,
+            "offsetX": null,
+            "offsetY": null,
+            "alpha": null,
+            "hslValid": null,
+            "hslH": 0,
+            "hslS": 0.5,
+            "hslL": 0.5
+        },
+        {
+            "type": "sv_actors",
+            "name": "EquipTherese",
+            "label": "Body",
+            "path": "Actor1_8.png",
+            "isBig": true,
+            "index": 0,
+            "depthZ": 0,
+            "offsetX": null,
+            "offsetY": null,
+            "alpha": null,
+            "hslValid": null,
+            "hslH": 0,
+            "hslS": 0.5,
+            "hslL": 0.5
+        },
+        {
+            "type": "sv_actors",
+            "name": "StatePoison",
+            "label": "Effect",
+            "path": null,
+            "isBig": true,
+            "index": 0,
+            "depthZ": null,
+            "offsetX": null,
+            "offsetY": null,
+            "alpha": null,
+            "hslValid": null,
+            "hslH": 0,
+            "hslS": 0.5,
+            "hslL": 0.5
+        },
+        {
+            "type": "sv_actors",
+            "name": "StatePoison",
+            "label": "Body",
+            "path": null,
+            "isBig": null,
+            "index": null,
+            "depthZ": 0,
+            "offsetX": null,
+            "offsetY": null,
+            "alpha": null,
+            "hslValid": true,
+            "hslH": 120,
+            "hslS": 0.2,
+            "hslL": 0.5
+        }
+    ],
+    "assets": [
+        {
+            "type": "characters",
+            "path": "!$Gate1.png"
+        },
+        {
+            "type": "characters",
+            "path": "!$Gate2.png"
+        },
+        {
+            "type": "characters",
+            "path": "!Chest.png"
+        },
+        {
+            "type": "characters",
+            "path": "!Crystal.png"
+        },
+        {
+            "type": "characters",
+            "path": "!Door1.png"
+        },
+        {
+            "type": "characters",
+            "path": "!Door2.png"
+        },
+        {
+            "type": "characters",
+            "path": "!Flame.png"
+        },
+        {
+            "type": "characters",
+            "path": "!Other1.png"
+        },
+        {
+            "type": "characters",
+            "path": "!Other2.png"
+        },
+        {
+            "type": "characters",
+            "path": "!SF_Door1.png"
+        },
+        {
+            "type": "characters",
+            "path": "!SF_Door2.png"
+        },
+        {
+            "type": "characters",
+            "path": "!Switch1.png"
+        },
+        {
+            "type": "characters",
+            "path": "!Switch2.png"
+        },
+        {
+            "type": "characters",
+            "path": "$BigMonster1.png"
+        },
+        {
+            "type": "characters",
+            "path": "$BigMonster2.png"
+        },
+        {
+            "type": "characters",
+            "path": "Actor1.png"
+        },
+        {
+            "type": "characters",
+            "path": "Actor2.png"
+        },
+        {
+            "type": "characters",
+            "path": "Actor3.png"
+        },
+        {
+            "type": "characters",
+            "path": "Damage1.png"
+        },
+        {
+            "type": "characters",
+            "path": "Damage2.png"
+        },
+        {
+            "type": "characters",
+            "path": "Damage3.png"
+        },
+        {
+            "type": "characters",
+            "path": "Damage4.png"
+        },
+        {
+            "type": "characters",
+            "path": "Evil.png"
+        },
+        {
+            "type": "characters",
+            "path": "Monster.png"
+        },
+        {
+            "type": "characters",
+            "path": "Nature.png"
+        },
+        {
+            "type": "characters",
+            "path": "Package1.png"
+        },
+        {
+            "type": "characters",
+            "path": "Package2.png"
+        },
+        {
+            "type": "characters",
+            "path": "People1.png"
+        },
+        {
+            "type": "characters",
+            "path": "People2.png"
+        },
+        {
+            "type": "characters",
+            "path": "People3.png"
+        },
+        {
+            "type": "characters",
+            "path": "People4.png"
+        },
+        {
+            "type": "characters",
+            "path": "Vehicle.png"
+        },
+        {
+            "type": "sv_actors",
+            "path": "Actor1_1.png"
+        },
+        {
+            "type": "sv_actors",
+            "path": "Actor1_2.png"
+        },
+        {
+            "type": "sv_actors",
+            "path": "Actor1_3.png"
+        },
+        {
+            "type": "sv_actors",
+            "path": "Actor1_4.png"
+        },
+        {
+            "type": "sv_actors",
+            "path": "Actor1_5.png"
+        },
+        {
+            "type": "sv_actors",
+            "path": "Actor1_6.png"
+        },
+        {
+            "type": "sv_actors",
+            "path": "Actor1_7.png"
+        },
+        {
+            "type": "sv_actors",
+            "path": "Actor1_8.png"
+        },
+        {
+            "type": "sv_actors",
+            "path": "Actor2_1.png"
+        },
+        {
+            "type": "sv_actors",
+            "path": "Actor2_2.png"
+        },
+        {
+            "type": "sv_actors",
+            "path": "Actor2_3.png"
+        },
+        {
+            "type": "sv_actors",
+            "path": "Actor2_4.png"
+        },
+        {
+            "type": "sv_actors",
+            "path": "Actor2_5.png"
+        },
+        {
+            "type": "sv_actors",
+            "path": "Actor2_6.png"
+        },
+        {
+            "type": "sv_actors",
+            "path": "Actor2_7.png"
+        },
+        {
+            "type": "sv_actors",
+            "path": "Actor2_8.png"
+        },
+        {
+            "type": "sv_actors",
+            "path": "Actor3_5.png"
+        },
+        {
+            "type": "sv_actors",
+            "path": "Actor3_6.png"
+        },
+        {
+            "type": "sv_actors",
+            "path": "Actor3_7.png"
+        },
+        {
+            "type": "sv_actors",
+            "path": "Actor3_8.png"
+        },
+        {
+            "type": "sv_actors",
+            "path": "Package1_1.png"
+        },
+        {
+            "type": "sv_actors",
+            "path": "Package1_2.png"
+        },
+        {
+            "type": "sv_actors",
+            "path": "Package1_3.png"
+        },
+        {
+            "type": "sv_actors",
+            "path": "Package1_4.png"
+        },
+        {
+            "type": "sv_actors",
+            "path": "Package1_5.png"
+        },
+        {
+            "type": "sv_actors",
+            "path": "Package1_6.png"
+        },
+        {
+            "type": "sv_actors",
+            "path": "Package1_7.png"
+        },
+        {
+            "type": "sv_actors",
+            "path": "Package1_8.png"
+        },
+        {
+            "type": "sv_actors",
+            "path": "Package2_1.png"
+        },
+        {
+            "type": "sv_actors",
+            "path": "Package2_2.png"
+        },
+        {
+            "type": "sv_actors",
+            "path": "Package2_3.png"
+        },
+        {
+            "type": "sv_actors",
+            "path": "Package2_4.png"
+        },
+        {
+            "type": "sv_actors",
+            "path": "Package2_5.png"
+        },
+        {
+            "type": "sv_actors",
+            "path": "Package2_6.png"
+        },
+        {
+            "type": "sv_actors",
+            "path": "Package2_7.png"
+        },
+        {
+            "type": "sv_actors",
+            "path": "Package2_8.png"
+        },
+        {
+            "type": "faces",
+            "path": "Actor1.png"
+        },
+        {
+            "type": "faces",
+            "path": "Actor2.png"
+        },
+        {
+            "type": "faces",
+            "path": "Actor3.png"
+        },
+        {
+            "type": "faces",
+            "path": "Evil.png"
+        },
+        {
+            "type": "faces",
+            "path": "Monster.png"
+        },
+        {
+            "type": "faces",
+            "path": "Nature.png"
+        },
+        {
+            "type": "faces",
+            "path": "Package1.png"
+        },
+        {
+            "type": "faces",
+            "path": "Package2.png"
+        },
+        {
+            "type": "faces",
+            "path": "People1.png"
+        },
+        {
+            "type": "faces",
+            "path": "People2.png"
+        },
+        {
+            "type": "faces",
+            "path": "People3.png"
+        },
+        {
+            "type": "faces",
+            "path": "People4.png"
+        },
+        {
+            "type": "pictures",
+            "path": "Package1_1.png"
+        },
+        {
+            "type": "pictures",
+            "path": "Package1_2.png"
+        },
+        {
+            "type": "pictures",
+            "path": "Package1_3.png"
+        },
+        {
+            "type": "pictures",
+            "path": "Package1_4.png"
+        },
+        {
+            "type": "pictures",
+            "path": "Package1_5.png"
+        },
+        {
+            "type": "pictures",
+            "path": "Package1_6.png"
+        },
+        {
+            "type": "pictures",
+            "path": "Package1_7.png"
+        },
+        {
+            "type": "pictures",
+            "path": "Package1_8.png"
+        },
+        {
+            "type": "pictures",
+            "path": "Package2.png"
+        },
+        {
+            "type": "pictures",
+            "path": "Package2_1.png"
+        },
+        {
+            "type": "pictures",
+            "path": "Package2_2.png"
+        },
+        {
+            "type": "pictures",
+            "path": "Package2_3.png"
+        },
+        {
+            "type": "pictures",
+            "path": "Package2_4.png"
+        },
+        {
+            "type": "pictures",
+            "path": "Package2_5.png"
+        },
+        {
+            "type": "pictures",
+            "path": "Package2_6.png"
+        },
+        {
+            "type": "pictures",
+            "path": "Package2_7.png"
+        },
+        {
+            "type": "pictures",
+            "path": "Package2_8.png"
+        }
+    ]
+}
